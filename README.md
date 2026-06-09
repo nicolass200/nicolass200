@@ -83,27 +83,29 @@ Node.js • APIs REST • Testes Automatizados • Integrações
 
 ---
 
-## ✨ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicolass200\&show_icons=true\&theme=tokyonight)
+## 🐍 Contribuições
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolass200\&layout=compact\&theme=tokyonight)
-
----
-
-## ✨ Contribuições
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nicolass200\&theme=github-dark)
-
----
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/nicolass200/nicolass200/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/nicolass200/nicolass200/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/nicolass200/nicolass200/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 ## ✨ Objetivos
 
 📈 Evoluir como Desenvolvedor Full Stack
 
 🏗️ Aprimorar conhecimentos em Arquitetura de Software
-
-🧪 Especializar-me em Qualidade de Software e Testes Automatizados
 
 🚀 Contribuir para projetos que gerem impacto real
 

@@ -113,7 +113,7 @@ Node.js • APIs REST • Testes Automatizados • Integrações
 
 ## ✨ Curiosidades
 
-☕ Café + Código = Combinação perfeita
+☕ Café + Código = Combinação perfeita.
 
 🎵 Gosto de ouvir música enquanto programo
 

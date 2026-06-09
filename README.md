@@ -110,13 +110,3 @@ Node.js • APIs REST • Testes Automatizados • Integrações
 🚀 Contribuir para projetos que gerem impacto real
 
 ---
-
-## ✨ Curiosidades
-
-☕ Café + Código = Combinação perfeita.
-
-🎵 Gosto de ouvir música enquanto programo
-
-📚 Estou sempre estudando algo novo
-
-💡 Acredito que tecnologia é uma ferramenta para transformar ideias em soluções
